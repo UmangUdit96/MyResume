@@ -1,0 +1,34 @@
+body {
+  background-color: #FEFBF6;
+}
+h1 {
+  color: #7F5283;
+}
+h3 {
+  color: #7F5283;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+/***************************CLASS SELECTORS***************************/
+
+.facebook {
+  height: 30px;
+}
+
+.twitter {
+  height: 30px;
+}
+
+.instagram {
+  height: 30px;
+}
+
+.whatsapp {
+  height: 30px;
+}
